@@ -17,3 +17,8 @@ h2{
 h3{ 
     color: slategray;
 }
+img{
+    display: block;
+    margin: 0 auto;
+}
+
